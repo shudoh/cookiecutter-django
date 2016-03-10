@@ -4,7 +4,7 @@
 {{cookiecutter.description}}
 
 
-LICENSE: BSD
+LICENSE: {{cookiecutter.open_source_license}}
 
 Settings
 ------------
